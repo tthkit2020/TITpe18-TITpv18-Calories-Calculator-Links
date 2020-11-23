@@ -1,4 +1,4 @@
-# TITpe18-TITpv18-Calorie-Calculator-Links
+# TITpe18-TITpv18-Calories-Calculator-Links
 
 ``` 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
